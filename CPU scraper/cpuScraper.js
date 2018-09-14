@@ -22,7 +22,7 @@ request('https://pcpartpicker.com/products/cpu/fetch/?page=1&mode=list&xslug=&se
 
     //change the i number to 0-50 or 50-100 to avoid captcha
     for (var i = 50; i < 100; i++) {
-        console.log("i is", i);
+        console.log("i is " + i + " and the url is " + cpuList[i]);
         request('https://pcpartpicker.com' + cpuList[i], function (error, response, html) {
             if (!error && response.statusCode == 200) {
                 var $ = cheerio.load(html);
@@ -125,7 +125,6 @@ request('https://pcpartpicker.com/products/cpu/fetch/?page=1&mode=list&xslug=&se
                 })
                 //change the parsedResultsCPU.json name to avoid overwriting previous file ie parsedResultsCPU1.1.json
                 fs.writeFile('parsedResultsCPU1.2.json', JSON.stringify(parsedResultsCPU, null, 4), (error) => console.log('File success'))
-                console.log(parsedResultsCPU);
             } else { console.log(error); }
         })
 
