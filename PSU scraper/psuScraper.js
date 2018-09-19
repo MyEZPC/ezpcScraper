@@ -6,6 +6,7 @@ var psuList = [];
 var psuTitle, metadataPSU;
 var parsedResultsPSU = [];
 
+//change page number 
 request('https://pcpartpicker.com/products/power-supply/fetch/?page=1&mode=list&xslug=&search=', function (error, response, html){
     if (!error && response.statusCode == 200) {
         var $ = cheerio.load(html);
@@ -19,6 +20,7 @@ request('https://pcpartpicker.com/products/power-supply/fetch/?page=1&mode=list&
         })
     }
 
+    //change the i number to 0-50 or 50-100 to avoid captcha
     for (var i = 0; i < 50; i++) {
         console.log("i is " + i + " and the url is " + storageList[i]);
         request('https://pcpartpicker.com' + psuList[i], function (error, response, html) {
@@ -91,7 +93,7 @@ request('https://pcpartpicker.com/products/power-supply/fetch/?page=1&mode=list&
                     }
                     parsedResultsPSU.push(metadataPSU);
                 })
-                //change the parsedResultsCPU.json name to avoid overwriting previous file ie parsedResultsCPU1.1.json
+                //change the parsedResultsPSU.json name to avoid overwriting previous file ie parsedResultsPSU1.1.json
                 fs.writeFile('parsedResultsPSU1.1.json', JSON.stringify(parsedResultsPSU, null, 4), (error) => console.log('File success'))
             } else { console.log(error); }
         })

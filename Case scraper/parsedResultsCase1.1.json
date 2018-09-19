@@ -1,0 +1,1257 @@
+[
+    {
+        "Case": "Fractal Design - Meshify C TG ATX Mid Tower Case",
+        "Manufacturer": "Fractal Design",
+        "Model": "Meshify C TG",
+        "PartNo": "FD-CA-MESH-C-BKO-TGL",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.40\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Rosewill - SRM-01 MicroATX Mini Tower Case",
+        "Manufacturer": "Rosewill",
+        "Model": "N/A",
+        "PartNo": "SRM-01",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "N/A",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.81\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Cooler Master - MasterBox Pro 5 RGB ATX Mid Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "MasterBox Pro 5 RGB",
+        "PartNo": "MCY-B5P2-KWGN-01",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "16.14\""
+        ],
+        "Dimensions": "19.69\" x 8.78\" x 18.70\""
+    },
+    {
+        "Case": "NZXT - H500i",
+        "Manufacturer": "NZXT",
+        "Model": "H500i (Black)",
+        "PartNo": "CA-H500W-B1",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.00\""
+        ],
+        "Dimensions": "16.85\" x 8.27\" x 18.11\""
+    },
+    {
+        "Case": "Cooler Master - MasterCase H500P ATX Mid Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "MasterCase H500P",
+        "PartNo": "MCM-H500P-MGNN-S00",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "16.22\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Phanteks - ECLIPSE P400S TEMPERED GLASS ATX Mid Tower Case",
+        "Manufacturer": "Phanteks",
+        "Model": "ECLIPSE P400S TEMPERED GLASS",
+        "PartNo": "PH-EC416PSTG_WT",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.02\" (280mm) With Drive Cages",
+            "15.55\" (395mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Phanteks - Eclipse P350X",
+        "Manufacturer": "Phanteks",
+        "Model": "Eclipse P350X (Black)",
+        "PartNo": "PH-EC350PTG_DBK",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.75\""
+        ],
+        "Dimensions": "17.91\" x 7.87\" x 17.72\""
+    },
+    {
+        "Case": "NZXT - S340 Elite",
+        "Manufacturer": "NZXT",
+        "Model": "S340 Elite (Black)",
+        "PartNo": "CA-S340W-B3",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "4",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.15\" (334mm) With Drive Cages",
+            "14.33\" (364mm) Without Drive Cages"
+        ],
+        "Dimensions": "17.01\" x 7.99\" x 18.66\""
+    },
+    {
+        "Case": "Corsair - Carbide SPEC-04",
+        "Manufacturer": "Corsair",
+        "Model": "Carbide SPEC-04 (Black/Red)",
+        "PartNo": "CC-9011107-WW",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / Red",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.57\""
+        ],
+        "Dimensions": "19.37\" x 7.91\" x 17.05\""
+    },
+    {
+        "Case": "Cooler Master - MasterBox Q300L MicroATX Mini Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "MasterBox Q300L",
+        "PartNo": "MCB-Q300L-KANN-S00",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "1",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.17\""
+        ],
+        "Dimensions": "15.24\" x 9.06\" x 14.88\""
+    },
+    {
+        "Case": "Corsair - Obsidian Series 1000D ATX Full Tower Case",
+        "Manufacturer": "Corsair",
+        "Model": "Obsidian Series 1000D",
+        "PartNo": "CC-9011148-WW",
+        "Type": "ATX Full Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "6",
+        "Internal3_5Bays": "5",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX",
+            "SSI EEB"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.75\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Corsair - SPEC-05 ATX Mid Tower Case",
+        "Manufacturer": "Corsair",
+        "Model": "SPEC-05",
+        "PartNo": "CC-9011138-WW",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.57\""
+        ],
+        "Dimensions": "19.02\" x 7.83\" x 17.05\""
+    },
+    {
+        "Case": "Phanteks - Enthoo Pro M Tempered Glass",
+        "Manufacturer": "Phanteks",
+        "Model": "Enthoo Pro M Tempered Glass (Black)",
+        "PartNo": "PH-ES515PTG_BK",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "8",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.81\" (300mm) With Drive Cages",
+            "16.54\" (420mm) Without Drive Cages"
+        ],
+        "Dimensions": "19.69\" x 9.25\" x 18.90\""
+    },
+    {
+        "Case": "Fractal Design - Focus G",
+        "Manufacturer": "Fractal Design",
+        "Model": "Focus G (Black)",
+        "PartNo": "FD-CA-FOCUS-BK-W",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "2",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.96\""
+        ],
+        "Dimensions": "18.27\" x 8.07\" x 17.48\""
+    },
+    {
+        "Case": "Deepcool - TESSERACT SW ATX Mid Tower Case",
+        "Manufacturer": "Deepcool",
+        "Model": "N/A",
+        "PartNo": "TESSERACT SW",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / Blue",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "2",
+        "Internal2_5Bays": "N/A",
+        "Internal3_5Bays": "4",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.20\""
+        ],
+        "Dimensions": "16.93\" x 7.64\" x 17.17\""
+    },
+    {
+        "Case": "Fractal Design - Meshify C Mini Dark TG MicroATX Mini Tower Case",
+        "Manufacturer": "Fractal Design",
+        "Model": "Meshify C Mini Dark TG",
+        "PartNo": "FD-CA-MESH-C-MINI-BKO-TGD(or) FD-CA-MESH-C-MINI-TGD",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.40\""
+        ],
+        "Dimensions": "16.10\" x 8.54\" x 16.22\""
+    },
+    {
+        "Case": "NZXT - S340",
+        "Manufacturer": "NZXT",
+        "Model": "S340 (Black/Blue)",
+        "PartNo": "CA-S340W-BB1(or) S340_Blue(or) CA-S340MB-GB",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / Blue",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.15\" (334mm) With Drive Cages",
+            "14.33\" (364mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Rosewill - FBM-X1 MicroATX Mini Tower Case",
+        "Manufacturer": "Rosewill",
+        "Model": "N/A",
+        "PartNo": "FBM-X1",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "1",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.81\""
+        ],
+        "Dimensions": "13.86\" x 6.89\" x 14.17\""
+    },
+    {
+        "Case": "Corsair - 750D ATX Full Tower Case",
+        "Manufacturer": "Corsair",
+        "Model": "N/A",
+        "PartNo": "750D(or) CC-9011035-WW",
+        "Type": "ATX Full Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "3",
+        "Internal2_5Bays": "4",
+        "Internal3_5Bays": "6",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX",
+            "XL ATX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.39\" (340mm) With Drive Cages",
+            "17.72\" (450mm) Without Drive Cages"
+        ],
+        "Dimensions": "21.50\" x 9.21\" x 21.97\""
+    },
+    {
+        "Case": "Corsair - 200R ATX Mid Tower Case",
+        "Manufacturer": "Corsair",
+        "Model": "N/A",
+        "PartNo": "200R(or) CC-9011023-WW(or) CC200R",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "3",
+        "Internal2_5Bays": "4",
+        "Internal3_5Bays": "4",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.81\" (300mm) With Drive Cages",
+            "16.93\" (430mm) Without Drive Cages"
+        ],
+        "Dimensions": "19.57\" x 8.27\" x 16.89\""
+    },
+    {
+        "Case": "Deepcool - DUKASE V2 ATX Mid Tower Case",
+        "Manufacturer": "Deepcool",
+        "Model": "N/A",
+        "PartNo": "DUKASE V2",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "2",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.35\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Cooler Master - Elite 110 Mini ITX Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "Elite 110",
+        "PartNo": "RC-110-KKN2",
+        "Type": "Mini ITX Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "8.27\""
+        ],
+        "Dimensions": "11.06\" x 8.19\" x 10.28\""
+    },
+    {
+        "Case": "HEC - Enterprise ATX Mid Tower Case",
+        "Manufacturer": "HEC",
+        "Model": "N/A",
+        "PartNo": "Enterprise",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "1",
+        "External5_25Bays": "3",
+        "Internal2_5Bays": "N/A",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "No",
+        "MaximumVideoCardLength": "N/A",
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Phanteks - Eclipse P300 Tempered Glass",
+        "Manufacturer": "Phanteks",
+        "Model": "Eclipse P300 Tempered Glass (Black)",
+        "PartNo": "PH-EC300PTG_BK",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.99\""
+        ],
+        "Dimensions": "15.75\" x 7.87\" x 17.72\""
+    },
+    {
+        "Case": "Raidmax - Ninja II ATX Mid Tower Case",
+        "Manufacturer": "Raidmax",
+        "Model": "Ninja II",
+        "PartNo": "ATX-A06WBB",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / Orange",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "3",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.02\" (280mm) With Drive Cages",
+            "15.35\" (390mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Phanteks - Enthoo Elite",
+        "Manufacturer": "Phanteks",
+        "Model": "Enthoo Elite (Black)",
+        "PartNo": "PH-ES916E_BK",
+        "Type": "ATX Full Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "4",
+        "Internal3_5Bays": "6",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": "N/A",
+        "Dimensions": "24.21\" x 10.63\" x 29.53\""
+    },
+    {
+        "Case": "Thermaltake -  View 71 TG RGB ATX Full Tower Case",
+        "Manufacturer": "Thermaltake",
+        "Model": "View 71 TG RGB",
+        "PartNo": "CA-1I7-00F1WN-01",
+        "Type": "ATX Full Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "N/A",
+        "Internal3_5Bays": "7",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.20\" (310mm) With Drive Cages",
+            "16.14\" (410mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Rosewill - SCM-01 MicroATX Mini Tower Case",
+        "Manufacturer": "Rosewill",
+        "Model": "N/A",
+        "PartNo": "SCM-01",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": "N/A",
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "NZXT - H500i",
+        "Manufacturer": "NZXT",
+        "Model": "H500i (White)",
+        "PartNo": "CA-H500W-W1",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.00\""
+        ],
+        "Dimensions": "16.85\" x 8.27\" x 18.11\""
+    },
+    {
+        "Case": "Cooler Master - MasterBox Lite 5 ATX Mid Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "MasterBox Lite 5",
+        "PartNo": "MCW-L5S3-KANN-01",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.75\""
+        ],
+        "Dimensions": "18.46\" x 7.87\" x 17.91\""
+    },
+    {
+        "Case": "NZXT - H700i ATX Mid Tower Case",
+        "Manufacturer": "NZXT",
+        "Model": "H700i",
+        "PartNo": "CA-H700W-WB",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "5",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "16.26\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "NZXT - H500",
+        "Manufacturer": "NZXT",
+        "Model": "H500 (White)",
+        "PartNo": "CA-H500B-W1",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.00\""
+        ],
+        "Dimensions": "16.85\" x 8.27\" x 18.11\""
+    },
+    {
+        "Case": "NZXT - S340 Elite",
+        "Manufacturer": "NZXT",
+        "Model": "S340 Elite (White)",
+        "PartNo": "CA-S340W-W2",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "4",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.15\" (334mm) With Drive Cages",
+            "14.33\" (364mm) Without Drive Cages"
+        ],
+        "Dimensions": "17.01\" x 7.99\" x 18.66\""
+    },
+    {
+        "Case": "NZXT - H500",
+        "Manufacturer": "NZXT",
+        "Model": "H500 (Black)",
+        "PartNo": "CA-H500B-B1",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.00\""
+        ],
+        "Dimensions": "16.85\" x 8.27\" x 18.11\""
+    },
+    {
+        "Case": "Cougar - MX330 ATX Mid Tower Case",
+        "Manufacturer": "Cougar",
+        "Model": "N/A",
+        "PartNo": "MX330(or) 385NC10.0002",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.78\""
+        ],
+        "Dimensions": "16.81\" x 7.68\" x 18.62\""
+    },
+    {
+        "Case": "DIYPC - P48-W ATX Mid Tower Case",
+        "Manufacturer": "DIYPC",
+        "Model": "N/A",
+        "PartNo": "P48-W",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "2",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.76\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Rosewill - FBM-01 MicroATX Mini Tower Case",
+        "Manufacturer": "Rosewill",
+        "Model": "N/A",
+        "PartNo": "FBM-01",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "1",
+        "External5_25Bays": "2",
+        "Internal2_5Bays": "N/A",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "No",
+        "MaximumVideoCardLength": "N/A",
+        "Dimensions": "13.86\" x 6.89\" x 13.78\""
+    },
+    {
+        "Case": "Fractal Design - Meshify C Dark TG ATX Mid Tower Case",
+        "Manufacturer": "Fractal Design",
+        "Model": "Meshify C Dark TG",
+        "PartNo": "FD-CA-MESH-C-BKO-TG",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.40\""
+        ],
+        "Dimensions": "16.26\" x 8.54\" x 17.83\""
+    },
+    {
+        "Case": "Corsair - SPEC-OMEGA RGB ATX Mid Tower Case",
+        "Manufacturer": "Corsair",
+        "Model": "SPEC-OMEGA RGB",
+        "PartNo": "CC-9011140-WW",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.57\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "NZXT - S340",
+        "Manufacturer": "NZXT",
+        "Model": "S340 (White)",
+        "PartNo": "CA-S340W-W1",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.15\" (334mm) With Drive Cages",
+            "14.33\" (364mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Cooler Master - MasterBox Lite 3.1 MicroATX Mid Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "MasterBox Lite 3.1",
+        "PartNo": "MCW-L3B3-KANN-01",
+        "Type": "MicroATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.96\""
+        ],
+        "Dimensions": "17.95\" x 8.19\" x 15.00\""
+    },
+    {
+        "Case": "Fractal Design - Define R6 Black TG ATX Mid Tower Case",
+        "Manufacturer": "Fractal Design",
+        "Model": "Define R6 Black TG",
+        "PartNo": "FD-CA-DEF-R6-BK-TG",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "6",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "EATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "11.81\" (300mm) With Drive Cages",
+            "17.32\" (440mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Thermaltake - Core V21 MicroATX Mini Tower Case",
+        "Manufacturer": "Thermaltake",
+        "Model": "Core V21",
+        "PartNo": "CA-1D5-00S1WN-00",
+        "Type": "MicroATX Mini Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "3",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.78\""
+        ],
+        "Dimensions": "16.69\" x 12.60\" x 13.23\""
+    },
+    {
+        "Case": "Fractal Design - Focus G",
+        "Manufacturer": "Fractal Design",
+        "Model": "Focus G (White)",
+        "PartNo": "FD-CA-FOCUS-WT-W",
+        "Type": "ATX Mid Tower",
+        "Color": "White",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "2",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.96\""
+        ],
+        "Dimensions": "18.27\" x 8.07\" x 17.48\""
+    },
+    {
+        "Case": "NZXT - S340",
+        "Manufacturer": "NZXT",
+        "Model": "S340 (Black)",
+        "PartNo": "CA-S340W-B1",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.15\" (334mm) With Drive Cages",
+            "14.33\" (364mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Thermaltake - Versa H15 MicroATX Mid Tower Case",
+        "Manufacturer": "Thermaltake",
+        "Model": "Versa H15",
+        "PartNo": "CA-1D4-00S1NN-00",
+        "Type": "MicroATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "N/A",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "12.40\""
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "NZXT - S340",
+        "Manufacturer": "NZXT",
+        "Model": "S340 (Black/Red)",
+        "PartNo": "CA-S340W-BR1(or) S340_Red(or) CA-S340MB-GR",
+        "Type": "ATX Mid Tower",
+        "Color": "Black / Red",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "13.15\" (334mm) With Drive Cages",
+            "14.33\" (364mm) Without Drive Cages"
+        ],
+        "Dimensions": "N/A"
+    },
+    {
+        "Case": "Cooler Master - MasterBox Lite 5 RGB ATX Mid Tower Case",
+        "Manufacturer": "Cooler Master",
+        "Model": "MasterBox Lite 5 RGB",
+        "PartNo": "MCW-L5S3-KGNN-02",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "15.75\""
+        ],
+        "Dimensions": "18.46\" x 7.87\" x 17.91\""
+    },
+    {
+        "Case": "Thermaltake - Versa N21 ATX Mid Tower Case",
+        "Manufacturer": "Thermaltake",
+        "Model": "Versa N21",
+        "PartNo": "CA-1D9-00M1WN-00",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "1",
+        "External5_25Bays": "1",
+        "Internal2_5Bays": "1",
+        "Internal3_5Bays": "3",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "9.84\" (250mm) With Drive Cages",
+            "14.17\" (360mm) Without Drive Cages"
+        ],
+        "Dimensions": "18.23\" x 8.54\" x 20.20\""
+    },
+    {
+        "Case": "Corsair - Crystal 570X RGB ATX Mid Tower Case",
+        "Manufacturer": "Corsair",
+        "Model": "Crystal 570X RGB",
+        "PartNo": "CC-9011098-WW",
+        "Type": "ATX Mid Tower",
+        "Color": "Black",
+        "IncludesPowerSupply": "No",
+        "External2_5Bays": "N/A",
+        "External3_5Bays": "N/A",
+        "External5_25Bays": "N/A",
+        "Internal2_5Bays": "2",
+        "Internal3_5Bays": "2",
+        "Internal5_25Bays": "N/A",
+        "MotherboardCompatibility": [
+            "ATX",
+            "Micro ATX",
+            "Mini ITX"
+        ],
+        "FrontPanelUSB3Ports": "Yes",
+        "MaximumVideoCardLength": [
+            "14.57\""
+        ],
+        "Dimensions": "N/A"
+    }
+]

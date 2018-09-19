@@ -88,7 +88,7 @@ request('https://pcpartpicker.com/products/internal-hard-drive/fetch/?page=1&mod
                     }
                     parsedResultsStorage.push(metadataStorage);
                 })
-                //change the parsedResultsCPU.json name to avoid overwriting previous file ie parsedResultsCPU1.1.json
+                //change the parsedResultsStorage.json name to avoid overwriting previous file ie parsedResultsStorage1.1.json
                 fs.writeFile('parsedResultsStorage1.1.json', JSON.stringify(parsedResultsStorage, null, 4), (error) => console.log('File success'))
             } else { console.log(error); }
         })
