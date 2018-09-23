@@ -1,0 +1,2103 @@
+[
+    {
+        "Processsor": "MSI - B450M PRO-M2 Micro ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B450M PRO-M2"
+        ],
+        "Color": [
+            "Brown",
+            "Black"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG MAXIMUS X FORMULA ATX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "ROG MAXIMUS X FORMULA",
+            "MAXIMUS X FORMULA",
+            "90MB0VN0-M0EAY0"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000",
+                "4133"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG ZENITH EXTREME EATX TR4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "ROG ZENITH EXTREME",
+            "90MB0UV0-M0EAY0",
+            "ZENITH EXTREME"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "EATX",
+        "CPUsocket": "TR4",
+        "Chipset": "AMD X399",
+        "MemorySlots": "8 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "128GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "No",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "4-way SLI",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B350 TOMAHAWK ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B350 TOMAHAWK"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG STRIX B450-F GAMING ATX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG STRIX B450-F GAMING",
+        "Part": [
+            "STRIX B450-F GAMING",
+            "ROG STRIX B450-F GAMING",
+            "90MB0YS0-M0EAY0"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "Onboard USB 3.0 Header(s)"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG STRIX Z370-G GAMING",
+        "Manufacturer": "Asus",
+        "Model": "ROG STRIX Z370-G GAMING (WI-FI AC)",
+        "Part": [
+            "STRIX Z370-G GAMING (WI-FI AC)",
+            "ROG STRIX Z370-G GAMING (WI-FI AC)"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - Prime Z370-P ATX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "Prime Z370-P",
+            "90MB0VH0-M0EAY0"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - GA-A320M-S2H Micro ATX AM4 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "GA-A320M-S2H"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD A320",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG STRIX X470-I GAMING Mini ITX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG STRIX X470-I GAMING",
+        "Part": [
+            "STRIX X470-I GAMING",
+            "ROG STRIX X470-I GAMING"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "Mini ITX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD X470",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG RAMPAGE VI EXTREME EATX LGA2066 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG RAMPAGE VI EXTREME",
+        "Part": [
+            "RAMPAGE VI EXTREME",
+            "ROG RAMPAGE VI EXTREME"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "EATX",
+        "CPUsocket": "LGA2066",
+        "Chipset": "Intel X299",
+        "MemorySlots": "8 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3600",
+                "3733",
+                "3866",
+                "4000",
+                "4133",
+                "4200"
+            ]
+        },
+        "MaxSupportedMemory": "128GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "No",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "4-way SLI",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B350M GAMING PRO Micro ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B350M GAMING PRO"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - STRIX B350-F GAMING ATX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "STRIX B350-F GAMING",
+            "ROG STRIX B350-F GAMING",
+            "90MB0UJ0-M0EAY0"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "ASRock - AB350 Pro4 ATX AM4 Motherboard",
+        "Manufacturer": "ASRock",
+        "Model": "N/A",
+        "Part": [
+            "AB350 Pro4"
+        ],
+        "Color": [
+            "Black",
+            "White"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG STRIX Z370-F GAMING ATX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG STRIX Z370-F GAMING",
+        "Part": [
+            "STRIX Z370-F GAMING",
+            "ROG STRIX Z370-F GAMING",
+            "90MB0V50-M0EAY0"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - GA-AB350M-DS3H Micro ATX AM4 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "GA-AB350M-DS3H"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "ASRock - Z370 Extreme4 ATX LGA1151 Motherboard",
+        "Manufacturer": "ASRock",
+        "Model": "N/A",
+        "Part": [
+            "Z370 Extreme4",
+            "90-MXB5U0-A0UAYZ"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3200",
+                "3600",
+                "3733",
+                "3800",
+                "3866",
+                "4000",
+                "4333"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "8",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - B450M DS3H Micro ATX AM4 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "B450M DS3H"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B450 TOMAHAWK ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B450 TOMAHAWK"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B450-A PRO ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B450-A PRO"
+        ],
+        "Color": [
+            "Brown",
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - X370 GAMING PLUS ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "X370 GAMING PLUS"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD X370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "ASRock - A320M-DGS Micro ATX AM4 Motherboard",
+        "Manufacturer": "ASRock",
+        "Model": "N/A",
+        "Part": [
+            "A320M-DGS"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD A320",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "ASRock - AB350M Pro4 Micro ATX AM4 Motherboard",
+        "Manufacturer": "ASRock",
+        "Model": "N/A",
+        "Part": [
+            "AB350M Pro4"
+        ],
+        "Color": [
+            "Black",
+            "White"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B250M PRO-VD Micro ATX LGA1151 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B250M PRO-VD"
+        ],
+        "Color": [
+            "Brown",
+            "Black"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel B250",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "No",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - Prime X470-Pro ATX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "Prime X470-Pro"
+        ],
+        "Color": [
+            "Black",
+            "White"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD X470",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - Z370 GAMING PLUS ATX LGA1151 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "Z370 GAMING PLUS"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B360 GAMING PLUS ATX LGA1151 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B360 GAMING PLUS"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel B360",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "No",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "5",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - PRIME A320M-K Micro ATX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "PRIME A320M-K",
+            "90MB0TV0-M0EAY0"
+        ],
+        "Color": [
+            "Black",
+            "White"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD A320",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - X470 GAMING PLUS ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "X470 GAMING PLUS"
+        ],
+        "Color": [
+            "Red",
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD X470",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - Z270-A PRO ATX LGA1151 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "Z270-A PRO"
+        ],
+        "Color": [
+            "Brown",
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z270",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2800",
+                "3000",
+                "3200",
+                "3600"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - Prime Z370-A ATX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "Prime Z370-A",
+            "90MB0V60-M0EAY0"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG Strix Z370-I Gaming Mini ITX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG Strix Z370-I Gaming",
+        "Part": [
+            "Strix Z370-I Gaming",
+            "ROG STRIX Z370-I GAMING"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "Mini ITX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000",
+                "4133",
+                "4266",
+                "4333"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - B360M DS3H Micro ATX LGA1151 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "B360M DS3H"
+        ],
+        "Color": [
+            "Silver",
+            "Black"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel B360",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "No",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "ASRock - AB350 Gaming-ITX/ac Mini ITX AM4 Motherboard",
+        "Manufacturer": "ASRock",
+        "Model": "N/A",
+        "Part": [
+            "AB350 Gaming-ITX/ac",
+            "Fatal1ty AB350 Gaming-ITX/ac"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "Mini ITX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2933",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG STRIX X470-F Gaming ATX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG STRIX X470-F Gaming",
+        "Part": [
+            "Strix X470-F Gaming",
+            "ROG Strix X470-F Gaming"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD X470",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "ASRock - B450M PRO4 Micro ATX AM4 Motherboard",
+        "Manufacturer": "ASRock",
+        "Model": "N/A",
+        "Part": [
+            "B450M PRO4"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - H310M A Micro ATX LGA1151 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "H310M A"
+        ],
+        "Color": [
+            "Silver",
+            "Brown"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel H310",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "No",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - Z370 AORUS Gaming 7",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "Z370 AORUS Gaming 7 (rev. 1.0)",
+            "Z370 AORUS Gaming 7",
+            "GA-Z370 AORUS Gaming 7"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3666",
+                "3733",
+                "3800",
+                "3866",
+                "4000",
+                "4133"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Yes",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "2 x 10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG MAXIMUS X HERO",
+        "Manufacturer": "Asus",
+        "Model": "ROG MAXIMUS X HERO (WI-FI AC)",
+        "Part": [
+            "MAXIMUS X HERO (WI-FI AC)",
+            "ROG MAXIMUS X HERO (WI-FI AC)"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000",
+                "4133"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - Z370P D3 ATX LGA1151 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "Z370P D3"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3666",
+                "3733",
+                "3800",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - M5A78L-M PLUS/USB3 Micro ATX AM3+ Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "M5A78L-M PLUS/USB3",
+            "90MB0RB0-M0EAY0"
+        ],
+        "Color": [
+            "Black",
+            "Blue"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM3+",
+        "Chipset": "AMD A78",
+        "MemorySlots": "4 x 240-pin DIMM",
+        "MemoryType": {
+            "type": "DDR3",
+            "frequency": [
+                "1066",
+                "1333",
+                "1600",
+                "1800",
+                "1866",
+                "2000"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "No",
+        "OnboardVideo": "No",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - GA-AB350-GAMING 3 ATX AM4 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "GA-AB350-GAMING 3",
+            "AB350-GAMING 3"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - PRIME B450M-A/CSM Micro ATX AM4 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "PRIME B450M-A/CSM"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "Micro ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B450I GAMING PLUS AC Mini ITX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B450I GAMING PLUS AC"
+        ],
+        "Color": [
+            "Black",
+            "Red"
+        ],
+        "FormFactor": "Mini ITX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B450",
+        "MemorySlots": "2 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "2933",
+                "3000",
+                "3200",
+                "3466"
+            ]
+        },
+        "MaxSupportedMemory": "32GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "No",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - Z370-A PRO ATX LGA1151 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "Z370-A PRO"
+        ],
+        "Color": [
+            "Brown",
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - Z370 AORUS Gaming 5",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "Z370 AORUS Gaming 5 (rev. 1.0)",
+            "Z370 AORUS Gaming 5",
+            "GA-Z370 AORUS Gaming 5"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3666",
+                "3733",
+                "3800",
+                "3866",
+                "4000",
+                "4133"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Gigabyte - X470 AORUS ULTRA GAMING ATX AM4 Motherboard",
+        "Manufacturer": "Gigabyte",
+        "Model": "N/A",
+        "Part": [
+            "X470 AORUS ULTRA GAMING"
+        ],
+        "Color": [
+            "Black",
+            "Orange"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD X470",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3000",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - ROG STRIX Z370-E GAMING ATX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "ROG STRIX Z370-E GAMING",
+        "Part": [
+            "Strix Z370-E Gaming",
+            "ROG STRIX Z370-E GAMING",
+            "90MB0V40-M0EAY0"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - Z370 GAMING PRO CARBON ATX LGA1151 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "Z370 GAMING PRO CARBON",
+            "7B45-001R"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel Z370",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400",
+                "2666",
+                "2800",
+                "3000",
+                "3200",
+                "3300",
+                "3333",
+                "3400",
+                "3466",
+                "3600",
+                "3733",
+                "3866",
+                "4000"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "Yes",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "Asus - STRIX H270F GAMING ATX LGA1151 Motherboard",
+        "Manufacturer": "Asus",
+        "Model": "N/A",
+        "Part": [
+            "STRIX H270F GAMING",
+            "ROG STRIX H270F GAMING"
+        ],
+        "Color": [
+            "Black",
+            "Silver"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "LGA1151",
+        "Chipset": "Intel H270",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "2133",
+                "2400"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "6",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    },
+    {
+        "Processsor": "MSI - B350 PC MATE ATX AM4 Motherboard",
+        "Manufacturer": "MSI",
+        "Model": "N/A",
+        "Part": [
+            "B350 PC MATE"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "FormFactor": "ATX",
+        "CPUsocket": "AM4",
+        "Chipset": "AMD B350",
+        "MemorySlots": "4 x 288-pin DIMM",
+        "MemoryType": {
+            "type": "DDR4",
+            "frequency": [
+                "1866",
+                "2133",
+                "2400",
+                "2666",
+                "2933",
+                "3200"
+            ]
+        },
+        "MaxSupportedMemory": "64GB",
+        "RAIDSupport": "Yes",
+        "OnboardVideo": "Depends on CPU",
+        "CrossfireSupport": "Yes",
+        "SLISupport": "No",
+        "SATA6Gb": "4",
+        "OnboardEthernet": [
+            "10 Mbps ",
+            "100 Mbps ",
+            "1000 Mbps"
+        ],
+        "OnboardUSB3Headers": "Yes"
+    }
+]
